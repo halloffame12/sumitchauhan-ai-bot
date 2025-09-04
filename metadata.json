@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Resume Assistant",
+  "description": "An interactive AI assistant for recruiters to ask questions about a candidate's resume, portfolio, and projects. The AI provides context-aware, structured, and recruiter-friendly answers in real-time.",
+  "requestFramePermissions": []
+}
